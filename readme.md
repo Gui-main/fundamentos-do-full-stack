@@ -42,4 +42,4 @@ Uma página web básica, simples e responsiva que apresenta as principais tecnol
 
 ## Acesso
 
-Acesse [fundamentos do full-stack](https://gui-main.github.io/fundamentos-do-full-stack/)
+Acesse [fundamentos do full-stack](https://guizcode.github.io/fundamentos-do-full-stack/)

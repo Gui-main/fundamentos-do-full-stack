@@ -2,6 +2,9 @@
 
 Uma página web básica, simples e responsiva que apresenta as principais tecnologias usadas em Full-Stack, incluindo Front-End, Back-End, Bancos de Dados, Git e Github.
 
+## Preview
+
+![preview](assets/preview.png)
 ## Funcionalidades
 
 - Estruturada com HTML5.
@@ -9,10 +12,6 @@ Uma página web básica, simples e responsiva que apresenta as principais tecnol
 - Inclui logotipos para melhor identificação visual.
 - Organizada por seções.
 - Link direto para a documentação de cada subtópico ao clicar na imagem correspondente.
-
-## Preview
-
-![preview](assets/preview.png)
 
 ## Resumo
 
@@ -43,4 +42,4 @@ Uma página web básica, simples e responsiva que apresenta as principais tecnol
 
 ## Acesso
 
-Acesse [Fundamentos do full-stack](https://gui-main.github.io/fundamentos-do-full-stack/)
+Acesse [fundamentos do full-stack](https://gui-main.github.io/fundamentos-do-full-stack/)
